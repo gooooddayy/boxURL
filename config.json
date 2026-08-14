@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "vv3nwjk",
-      "name": "vv3nwjk",
-      "type": 0,
-      "api": "https://www.vv3nwjk.com/api.php",
+      "key": "金牌影院",
+      "name": "金牌影院(vv3nwjk)",
+      "type": 3,
+      "api": "https://gooooddayy.github.io/boxURL/spider.js",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1
