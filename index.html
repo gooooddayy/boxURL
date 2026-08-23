@@ -3,11 +3,15 @@
 <body>
 <pre id="jsonBox"></pre>
 <script>
-fetch("./data.json")
-.then(res=>res.json())
-.then(data=>{
+// 封装加载函数
+async function loadJson(){
+  const res = await fetch("./data.json")
+  const data = await res.json()
   document.getElementById('jsonBox').innerText = JSON.stringify(data,null,2)
-})
+}
+loadJson()
+// 每5秒重新读取一次json
+setInterval(loadJson,5000)
 </script>
 </body>
 </html>
