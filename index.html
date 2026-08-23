@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<pre id="jsonBox"></pre>
+<script>
+fetch("./data.json")
+.then(res=>res.json())
+.then(data=>{
+  document.getElementById('jsonBox').innerText = JSON.stringify(data,null,2)
+})
+</script>
+</body>
+</html>
