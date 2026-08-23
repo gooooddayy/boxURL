@@ -3,14 +3,21 @@
 <body>
 <pre id="jsonBox"></pre>
 <script>
-// 封装加载函数
 async function loadJson(){
-  const res = await fetch("./data.json")
-  const data = await res.json()
-  document.getElementById('jsonBox').innerText = JSON.stringify(data,null,2)
+  try{
+    // 相对路径，单斜杠，不要写//
+    const res = await fetch("./data.json")
+    if(!res.ok){
+      throw new Error("http错误："+res.status)
+    }
+    const data = await res.json()
+    document.getElementById('jsonBox').innerText = JSON.stringify(data,null,2)
+  }catch(err){
+    document.getElementById('jsonBox').innerText = "读取出错："+err.message
+    console.error(err)
+  }
 }
 loadJson()
-// 每5秒重新读取一次json
 setInterval(loadJson,5000)
 </script>
 </body>
