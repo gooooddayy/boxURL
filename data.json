@@ -1,5 +1,5 @@
 {
-  "exportTime": "2026-08-25 20:17:03",
+  "exportTime": "2026-08-25 20:20:09",
   "spider": "./OS.jar",
   "logo": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/18.ico",
   "wallpaper": "https://bing.img.run/uhd.php",
@@ -9674,7 +9674,6 @@
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
-    {},
     {
       "name": "Kimentanm",
       "type": 0,
@@ -9739,30 +9738,6 @@
       "url": "http://php.cqshushu.ggff.net/jzb.php?公众号【医工学习日志】",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "快直播体育(python)",
-      "type": 3,
-      "api": "http://urlzf.zone.id/tvjk/kzbty.py",
-      "ext": "{}"
-    },
-    {
-      "name": "yoo体育(python)",
-      "type": 3,
-      "api": "http://urlzf.zone.id/tvjk/yoozb.py",
-      "ext": "{}"
-    },
-    {
-      "name": "360pai",
-      "type": 3,
-      "api": "http://urlzf.zone.id/tvjk/360pai.py",
-      "ext": "{}"
-    },
-    {
-      "name": "515001",
-      "type": 3,
-      "api": "http://urlzf.zone.id/tvjk/515001.py",
-      "ext": "{}"
     },
     {
       "name": "88KQ",
@@ -9864,17 +9839,6 @@
       "timeout": 20,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1cGVybWVndW8vQm94UmVzL21haW4vTXl1c2UvbGl2ZTE4LnR4dA=="
-          ]
-        }
-      ]
     },
     {
       "name": "LIVE",
@@ -9988,32 +9952,10 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=live&proxy=&url="
-          ]
-        }
-      ]
-    },
-    {
       "name": "成人直播",
       "type": 0,
       "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/selive.txt",
       "playerType": 2
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL20zNS5ncmVsaWdodGluZy5jbi9odG1sL3piMS50eHQ="
-          ]
-        }
-      ]
     },
     {
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -10077,17 +10019,6 @@
       "name": "Short",
       "type": 0,
       "url": "https://gh-proxy.org/raw.githubusercontent.com/PickPunk/TVbox-ZYplayer/refs/heads/main/Short.m3u"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "https://live.zbds.top/tv/iptv6.txt"
-          ]
-        }
-      ]
     }
   ],
   "parses": [
@@ -10712,11 +10643,6 @@
       "url": "https://okjx.cc/?url="
     },
     {
-      "name": "解析9",
-      "type": 1,
-      "url": ""
-    },
-    {
       "name": "解析10",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
@@ -11271,84 +11197,6 @@
       "regex": "[\"8.1748\",\"10.0099\",\"10.3333\",\"16.0599\"]"
     },
     {
-      "host": "www.djuu.com",
-      "rule": [
-        "mp4.djuu.com",
-        "m4a"
-      ]
-    },
-    {
-      "host": "www.sharenice.net",
-      "rule": [
-        "huoshan.com",
-        "/item/video/"
-      ],
-      "filter": []
-    },
-    {
-      "host": "www.sharenice.net",
-      "rule": [
-        "sovv.qianpailive.com",
-        "vid="
-      ],
-      "filter": []
-    },
-    {
-      "host": "www.sharenice.net",
-      "rule": [
-        "douyin.com",
-        "/play/"
-      ]
-    },
-    {
-      "host": "m.ysxs8.vip",
-      "rule": [
-        "ysting.ysxs8.vip:81",
-        "xmcdn.com"
-      ],
-      "filter": []
-    },
-    {
-      "host": "hdmoli.com",
-      "rule": [
-        ".m3u8"
-      ]
-    },
-    {
-      "host": "https://api.live.bilibili.com",
-      "rule": [
-        "bilivideo.com",
-        "/index.m3u8"
-      ],
-      "filter": [
-        "data.bilibili.com/log/web",
-        "i0.hdslb.com/bfs/live/"
-      ]
-    },
-    {
-      "host": "www.agemys.cc",
-      "rule": [
-        "cdn-tos",
-        "obj/tos-cn"
-      ]
-    },
-    {
-      "host": "www.fun4k.com",
-      "rule": [
-        "https://hd.ijycnd.com/play",
-        "index.m3u8"
-      ]
-    },
-    {
-      "host": "zjmiao.com",
-      "rule": [
-        "play.videomiao.vip/API.php",
-        "time=",
-        "key=",
-        "path="
-      ]
-    },
-    {
       "name": "夜市",
       "hosts": [
         "yeslivetv.com"
@@ -11372,50 +11220,6 @@
         "magnet"
       ],
       "regex": "[\"更多\",\"社 區\",\"x u u\",\"最 新\",\"直 播\",\"更 新\",\"社 区\",\"有 趣\",\"英皇体育\",\"全中文AV在线\",\"澳门皇冠赌场\",\"哥哥快来\",\"美女荷官\",\"裸聊\",\"新片首发\",\"UUE29\"]"
-    },
-    {
-      "host": "*",
-      "rule": [
-        "default.365yg.com"
-      ]
-    },
-    {
-      "host": "dyxs20.com",
-      "rule": [
-        ".m3u8"
-      ]
-    },
-    {
-      "host": "www.sharenice.net",
-      "rule": [
-        "http.*?/play.{0,3}\\?[^url]{2,8}=.*"
-      ]
-    },
-    {
-      "host": "www.sharenice.net",
-      "rule": [
-        "qianpailive.com",
-        "vid="
-      ]
-    },
-    {
-      "host": "*",
-      "rule": [
-        "douyin.com/aweme",
-        "video_id="
-      ]
-    },
-    {
-      "host": "*",
-      "rule": [
-        "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
-      ]
-    },
-    {
-      "host": "*",
-      "rule": [
-        "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
-      ]
     }
   ]
 }
