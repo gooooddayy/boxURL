@@ -1,6 +1,6 @@
 {
-  "exportTime": "2026-08-27 15:33:56",
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
+  "exportTime": "2026-08-27 16:00:57",
+  "spider": "http://47.120.41.246:8025/vip/jar/lubin.php",
   "ijk": [
     {
       "group": "软解码",
@@ -179,14 +179,6 @@
   ],
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "💖豆瓣排行💖【配置中心|点主页切换】",
-      "type": 3,
-      "api": "csp_Douban",
-      "ext": "http://47.120.41.246:8025/vip/jar/douban.json",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
-    },
-    {
       "key": "华谊",
       "name": "🍁┃华谊┃APP",
       "type": 3,
@@ -285,6 +277,27 @@
       "hide": 1
     },
     {
+      "key": "爱看机器人",
+      "name": "🍁┃爱看┃有广",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "荐片",
+      "name": "🍁┃荐片┃磁力",
+      "api": "csp_JianPian",
+      "type": 3
+    },
+    {
+      "key": "瓜子影视",
+      "name": "🍁┃瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360"
+    },
+    {
       "key": "茉莉",
       "name": "🍁┃茉莉┃APP",
       "type": 3,
@@ -299,10 +312,10 @@
       "hide": 1
     },
     {
-      "key": "瓜子影视",
-      "name": "🍁┃瓜子┃影视",
+      "key": "独播影视",
+      "name": "🍁┃独播┃影视",
       "type": 3,
-      "api": "csp_Gz360"
+      "api": "csp_Duboku"
     }
   ]
 }
