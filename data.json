@@ -1,153 +1,308 @@
 {
-  "exportTime": "2026-08-27 15:20:17",
-  "spider": "http://oss4liview.moji.com/thd_file/2026/08/27/661e0c5fa299cf85470d9b63e7e3f1b9.jpg;md5;d43ebe5e93083713f7e3477874ab2d39",
-  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
-  "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
-  "doh": [
+  "exportTime": "2026-08-27 15:33:56",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
+  "ijk": [
     {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
-      "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
       ]
     },
     {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
-      "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-      ]
-    },
-    {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
-      "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
-      ]
-    },
-    {
-      "name": "DNSWatch",
-      "url": "https://resolver2.dns.watch/dns-query",
-      "ips": [
-        "84.200.69.80",
-        "84.200.70.40"
-      ]
-    },
-    {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
-      "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
       ]
     }
   ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "renrenmi"
+  ],
   "sites": [
     {
-      "key": "Douban",
-      "name": "🐮【王二小放牛娃】🐮",
+      "key": "drpy_js_豆瓣",
+      "name": "💖豆瓣排行💖【配置中心|点主页切换】",
       "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_Douban",
+      "ext": "http://47.120.41.246:8025/vip/jar/douban.json",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
+    },
+    {
+      "key": "华谊",
+      "name": "🍁┃华谊┃APP",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.muyue.tool",
+        "host": "",
+        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+        "version": "1.0.0.4",
+        "decrypt": "1"
+      },
+      "hide": 1
+    },
+    {
+      "key": "山楂影视",
+      "name": "🍁┃山楂┃APP",
+      "type": 3,
+      "api": "csp_PianKu8"
+    },
+    {
+      "key": "热播影视",
+      "name": "🍁┃热播┃APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      },
+      "hide": 1
     },
     {
-      "key": "AiNewGuanYing",
-      "name": "💓‍观影┃4K💓‍",
+      "key": "剧圈99",
+      "name": "🍁┃剧圈┃APP",
       "type": 3,
-      "api": "csp_AiNewGuanYingGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      },
+      "hide": 1
     },
     {
-      "key": "AiQwMkv",
-      "name": "💓‍七味┃4K💓‍",
+      "key": "天堂",
+      "name": "🍁┃天堂┃APP",
       "type": 3,
-      "api": "csp_AiQwMkvGuard",
+      "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      },
+      "hide": 1
     },
     {
-      "key": "AiNewHuBan",
-      "name": "💓虎斑┃4K💓",
+      "key": "苹果",
+      "name": "🍁┃苹果┃APP",
       "type": 3,
-      "api": "csp_AiNewHuBanGuard",
+      "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      },
+      "hide": 1
     },
     {
-      "key": "AiNewMuOu",
-      "name": "💓木偶┃4K💓",
+      "key": "茉莉",
+      "name": "🍁┃茉莉┃APP",
       "type": 3,
-      "api": "csp_AiNewMuOuGuard",
+      "api": "csp_AppGet",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1,
+      "ext": {
+        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      },
+      "hide": 1
     },
     {
-      "key": "AiNewLibvio",
-      "name": "💓立播┃4K💓",
+      "key": "瓜子影视",
+      "name": "🍁┃瓜子┃影视",
       "type": 3,
-      "api": "csp_AiNewLibvioGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "蜗牛",
-      "name": "💓‍蜗牛┃4K💓‍",
-      "type": 3,
-      "api": "csp_AiNewWoNiu4KGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AiPan1Me",
-      "name": "💓盘迷┃4K💓",
-      "type": 3,
-      "api": "csp_AiPan1MeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "賤賤",
-      "name": "💥贱片┃秒播💥",
-      "type": 3,
-      "api": "csp_WexAiJianPianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥",
-      "type": 3,
-      "api": "csp_WexAiReBoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "WexAiWenCai",
-      "name": "💥文才┃秒播💥",
-      "type": 3,
-      "api": "csp_WexAiWenCaiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
+      "api": "csp_Gz360"
     }
   ]
 }
