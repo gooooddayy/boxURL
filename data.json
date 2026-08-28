@@ -1,7 +1,8 @@
 {
-  "exportTime": "2026-08-28 16:56:20",
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/HeChengChaXiu.jar",
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "exportTime": "2026-08-28 17:19:53",
+  "spider": "http://rihou.cc:555/jar/nzk0722.jar",
+  "logo": "http://rihou.cc:567/1.gif",
+  "wallpaper": "https://api.btstu.cn/sjbz/api.php",
   "ijk": [
     {
       "group": "软解码",
@@ -12,9 +13,9 @@
           "value": "0"
         },
         {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
         },
         {
           "category": 4,
@@ -23,8 +24,8 @@
         },
         {
           "category": 4,
-          "name": "soundtouch",
-          "value": "1"
+          "name": "enable-accurate-seek",
+          "value": "0"
         },
         {
           "category": 4,
@@ -37,9 +38,9 @@
           "value": "0"
         },
         {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
         },
         {
           "category": 2,
@@ -53,13 +54,8 @@
         },
         {
           "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
+          "name": "overlay-format",
+          "value": "842225234"
         },
         {
           "category": 4,
@@ -73,8 +69,8 @@
         },
         {
           "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
+          "name": "soundtouch",
+          "value": "1"
         },
         {
           "category": 4,
@@ -97,9 +93,9 @@
           "value": "0"
         },
         {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
         },
         {
           "category": 4,
@@ -108,8 +104,8 @@
         },
         {
           "category": 4,
-          "name": "soundtouch",
-          "value": "1"
+          "name": "enable-accurate-seek",
+          "value": "0"
         },
         {
           "category": 4,
@@ -122,9 +118,9 @@
           "value": "0"
         },
         {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
         },
         {
           "category": 2,
@@ -138,13 +134,8 @@
         },
         {
           "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
+          "name": "overlay-format",
+          "value": "842225234"
         },
         {
           "category": 4,
@@ -158,7 +149,7 @@
         },
         {
           "category": 4,
-          "name": "mediacodec-handle-resolution-change",
+          "name": "soundtouch",
           "value": "1"
         },
         {
@@ -176,179 +167,153 @@
   ],
   "flags": [
     "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
     "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
+    "QQ",
     "iqiyi",
     "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
     "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
     "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
     "tudou",
     "pptv",
+    "PPTV",
     "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
+    "ltnb",
+    "rx",
+    "CL4K",
+    "xfyun",
+    "wuduzy",
+    "wasu",
     "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
+    "renrenmi",
+    "xmm",
+    "xigua",
+    "m1905 ",
+    "funshion ",
+    "duoduozy",
+    "xinluan",
+    "ddzy",
+    "tgqp",
+    "tkqp",
+    "XRJX",
+    "优酷",
+    "芒果",
+    "腾讯",
+    "爱奇艺",
+    "奇艺",
+    "哔哩哔哩",
+    "哔哩"
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
   ],
   "sites": [
     {
-      "key": "电影先生",
-      "name": "👨‍💼电影先生",
+      "key": "文才影视",
+      "name": "影视②",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "http://47.96.82.41:5188/svip/py/文才影视.py",
+      "jar": "http://47.96.82.41:5188/svip/svip.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.json"
+      "playerType": 2,
+      "ext": {
+        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      }
     },
     {
-      "key": "子子影视",
-      "name": "💪子子影视",
+      "key": "永乐影视",
+      "name": "影视③",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json"
+      "jar": "http://47.96.82.41:5188/svip/svip.jar",
+      "ext": "http://47.96.82.41:5188/svip/XBPQ/永乐影视.json"
     },
     {
-      "key": "6v电影",
-      "name": "🤙6v电影",
+      "key": "热播影视",
+      "name": "影视⑥",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "http://47.96.82.41:5188/svip/py/热播影视.py",
+      "jar": "http://47.96.82.41:5188/svip/svip.jar",
       "searchable": 1,
+      "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/6v%E7%94%B5%E5%BD%B1.json"
+      "playerType": 2
     },
     {
-      "key": "电影蜜蜂",
-      "name": "🐝电影蜜蜂",
+      "key": "金牌影视",
+      "name": "影视⑦",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E7%94%B5%E5%BD%B1%E8%9C%9C%E8%9C%82.json"
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+      "jar": "http://47.96.82.41:5188/svip/svip.jar"
     },
     {
-      "key": "libvio",
-      "name": "😘libvio ",
+      "key": "卧龙",
+      "name": "影视⑧",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/libvio.json"
+      "api": "csp_AppGet",
+      "jar": "http://47.96.82.41:5188/svip/svip.jar",
+      "ext": {
+        "url": "http://ys.qist.top",
+        "site": "",
+        "dataKey": "2SWSPFxugBLPPOKo",
+        "dataIv": "2SWSPFxugBLPPOKo",
+        "deviceId": "",
+        "version": "120"
+      }
     },
     {
-      "key": "素白白",
-      "name": "😆素白白 ",
+      "key": "瓜子",
+      "name": "影视⑨",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E7%B4%A0%E7%99%BD%E7%99%BD.json"
-    },
-    {
-      "key": "voflix",
-      "name": "😘voflix ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/voflix.json"
-    },
-    {
-      "key": "奈落影院",
-      "name": "🤨奈落影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E5%A5%88%E8%90%BD%E5%BD%B1%E9%99%A2.json"
-    },
-    {
-      "key": "快看影视",
-      "name": "😍快看影视 ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E5%BF%AB%E7%9C%8B%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "全能影视",
-      "name": "🙄全能影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E5%85%A8%E8%83%BD%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "小狗影院",
-      "name": "🙄小狗影院 ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E5%B0%8F%E7%8B%97%E5%BD%B1%E9%99%A2.json"
-    },
-    {
-      "key": "555",
-      "name": "🤩555 ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/555.json"
-    },
-    {
-      "key": "美剧天堂",
-      "name": "🤩美剧天堂",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E7%BE%8E%E5%89%A7%E5%A4%A9%E5%A0%82.json"
-    },
-    {
-      "key": "皮皮影视",
-      "name": "👛皮皮影视 ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E7%9A%AE%E7%9A%AE%E5%BD%B1%E8%A7%86.json"
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "jar": "http://47.96.82.41:5188/svip/svip.jar",
+      "ext": "https://shdy5.us"
     }
   ]
 }
