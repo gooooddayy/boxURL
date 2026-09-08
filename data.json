@@ -1,6 +1,6 @@
 {
-  "exportTime": "2026-09-08 18:04:19",
-  "spider": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/spider.jar;md5;9e5592497fe68e612486d0426b33a8bc",
+  "exportTime": "2026-09-08 18:47:01",
+  "spider": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544",
   "ijk": [
     {
       "group": "软解码",
@@ -226,6 +226,18 @@
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
+      "key": "Douban",
+      "name": "🐮【王二小放牛娃】🐮",
+      "type": 3,
+      "api": "csp_NewDouBanGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+    },
+    {
       "key": "华谊",
       "name": "🍁┃华谊┃APP",
       "type": 3,
@@ -259,7 +271,7 @@
         "url": "http://v.rbotv.cn"
       },
       "hide": 1,
-      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
+      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260902/xJZz/fish09020618.jar;md5;282aee405654188f1bc1822bbf137410"
     },
     {
       "key": "剧圈99",
@@ -323,18 +335,6 @@
       "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
-      "key": "Douban",
-      "name": "🐮【王二小放牛娃】🐮",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
-    },
-    {
       "key": "WexAiYueYue",
       "name": "💥闪电┃秒播💥",
       "type": 3,
@@ -342,7 +342,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
     },
     {
       "key": "WexAiGuaZi",
@@ -352,7 +352,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
     },
     {
       "key": "WexFengYe4K",
@@ -362,7 +362,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
     },
     {
       "key": "AppV7 | 大师兄",
@@ -376,7 +376,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
     },
     {
       "key": "WexAiDuBoKu",
@@ -386,7 +386,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
     },
     {
       "key": "WexAiWenCai",
@@ -396,7 +396,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
     },
     {
       "key": "賤賤",
@@ -406,7 +406,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
     },
     {
       "key": "WexAiReBo",
@@ -416,7 +416,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
     },
     {
       "key": "AppV7 | 小黄人",
@@ -430,7 +430,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
+      "jar": "https://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544"
     },
     {
       "key": "枫眠",
@@ -626,7 +626,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://9280.kstore.vip/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
+      "jar": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
     },
     {
       "key": "厂长",
@@ -638,7 +638,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://9280.kstore.vip/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
+      "jar": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
     },
     {
       "key": "视界",
@@ -650,7 +650,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://9280.kstore.vip/rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c=",
-      "jar": "https://9280.kstore.vip/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
+      "jar": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
     },
     {
       "key": "海绵",
@@ -662,7 +662,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://9280.kstore.vip/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
+      "jar": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
     },
     {
       "key": "比特",
@@ -673,7 +673,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://9280.kstore.vip/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
+      "jar": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
     },
     {
       "key": "光影",
@@ -684,7 +684,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://9280.kstore.vip/rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw==",
-      "jar": "https://9280.kstore.vip/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
+      "jar": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
     },
     {
       "key": "新6V",
@@ -696,7 +696,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/",
-      "jar": "https://9280.kstore.vip/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
+      "jar": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
     },
     {
       "key": "Dm84",
@@ -707,7 +707,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://9280.kstore.vip/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
+      "jar": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;9bf5c1f491cc633ff14e1fee5c91daa9"
     },
     {
       "key": "橘汁",
@@ -727,7 +727,8 @@
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
         "version": "3.0.2.3",
         "decrypt": "1"
-      }
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "永乐影视",
@@ -740,7 +741,8 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
         "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
-      }
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     }
   ]
 }
